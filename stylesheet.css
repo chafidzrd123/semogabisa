@@ -305,3 +305,40 @@ a{
   
   
   }
+  /* anggota */
+  .anggota h3 {
+    text-align: center;
+    color: white;
+  }
+  
+  .anggota p {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+  }
+  
+  .anggota {
+    float: left;
+    border-style: 6px;
+    border-color: #146b2c;
+    margin: 10px;
+    border-radius: 20px 20px 80px 80px;
+    background-color: rgba(50, 168, 82, 0.7);
+    width: 18%;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.4);
+  }
+  
+  .foto-profil {
+    height: 200px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 200px;
+    border-color: #146b2c;
+    display: block;
+  }
+  
